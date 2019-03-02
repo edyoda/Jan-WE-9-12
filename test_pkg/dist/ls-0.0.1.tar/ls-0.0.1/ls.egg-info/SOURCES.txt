@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+ls/__init__.py
+ls/linear_search_mod.py
+ls.egg-info/PKG-INFO
+ls.egg-info/SOURCES.txt
+ls.egg-info/dependency_links.txt
+ls.egg-info/top_level.txt
